@@ -1,7 +1,7 @@
-public class Amoba {
+public class Amoba{
 
     public static void main(String[] args) {
-        System.out.println("Szia, világ!");
+        Table tabla = new Table();
+        tabla.kiirTabla();
     }
-
 }
